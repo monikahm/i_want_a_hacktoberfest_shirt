@@ -1,6 +1,6 @@
 - [Matheus Calegaro](https://github.com/mathcale)
 - [Andrew Johnston](https://github.com/arjohnston)
-- [Monika Muzyk]https://github.com/monikahm
+- [Monika Muzyk](https://github.com/monikahm)
 - [Niklas M. Hole](https://github.com/niklasmh)
 - [Devansh Sharma](https://github.com/devansh289)
 - [Manolo](https://github.com/Mreis89)
